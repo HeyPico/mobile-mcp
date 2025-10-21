@@ -269,3 +269,4 @@ On iOS, you'll need Xcode and to run the Simulator before using Mobile MCP with 
    <img src = "https://contrib.rocks/image?repo=mobile-next/mobile-mcp"/>
  </a>
 
+# Dummy update for CI/CD testing - Tue Oct 21 03:28:21 UTC 2025
